@@ -1,0 +1,9 @@
+django
+dnspython
+pymongo
+requests
+beautifulsoup4
+dotenv
+python-dotenv
+django-cors-headers
+pypdf2
